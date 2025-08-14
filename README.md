@@ -35,6 +35,8 @@
   - VS studio
   - Figma
   - Adobe illustrator
+  - Adobe Photoshop
+  - Canva
 ```
 
 ## Github Stats
