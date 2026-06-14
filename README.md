@@ -13,15 +13,21 @@ Interested in building intelligent systems that solve real-world problems throug
 🌱 **Currently Learning**:
 
 Machine Learning & Deep Learning 🤖
+
 Python for AI/ML & Data Analysis
+
 Advanced React.js & Django
+
 Exploring Neural Networks, Computer Vision, and Agentic AI
 
 💡 **Looking to collaborate on**:
 
 AI/ML & Data Science Projects 📊
+
 Intelligent Web Applications 🌐
+
 Open Source Development 🚀
+
 Innovative Digital Solutions & Automation ⚡
 
 🎯 **Current Focus:
